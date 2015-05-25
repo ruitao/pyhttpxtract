@@ -1,0 +1,1 @@
+This script aims at decoding HTTP conversations from a pcap file. In a nice HTML report, it displays each request and response, and for these latests, it decodes the eventual attachments (text/xml, image/gif, image/jpeg), even if they are compressed with gzip.
